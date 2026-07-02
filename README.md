@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=S%20Abinav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Full-Stack%20%7C%20Computer%20Vision&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00c9ff&height=220&section=header&text=S%20Abinav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Full-Stack%20%7C%20Computer%20Vision&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/abinav-s-b33ab528a">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -12,15 +12,31 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Building+AI-powered+systems+that+matter;RAG+Pipelines+%7C+Computer+Vision+%7C+Full-Stack+Dev;Dual+Degree+%40+VIT+Chennai+%2B+IIT+Madras" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=Building+AI-powered+systems+that+matter;RAG+Pipelines+%7C+Computer+Vision+%7C+Full-Stack+Dev;Dual+Degree+%40+VIT+Chennai+%2B+IIT+Madras" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 👋 About Me
+
+<div align="center">
+<table><tr><td width="100%">
+
+🔭 I like turning messy, real-world data into things that actually *work* — a model that catches an intruder, a pipeline that answers questions correctly, a system that watches so someone else doesn't have to.
+
+⚡ Half my brain lives in Jupyter notebooks, the other half in React components — I'm equally happy tuning a loss curve or shipping a UI at 2 AM.
+
+🧩 I treat every hackathon like a puzzle with a deadline, and every research problem like a puzzle with no deadline — both keep me up way too late.
+
+🌱 Currently exploring how retrieval, vision, and classic ML can be stitched together into systems that feel less like tools and more like teammates.
+
+</td></tr></table>
+</div>
 
 ## 🧠 Tech Stack
 
@@ -51,27 +67,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-HANDLE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-HANDLE&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-HANDLE&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-HANDLE&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
 ## 🌐 Languages I Speak
 
 <div align="center">
@@ -80,6 +75,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
 
 </div>
