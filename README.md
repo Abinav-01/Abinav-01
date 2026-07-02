@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00c9ff&height=220&section=header&text=S%20Abinav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Full-Stack%20%7C%20Computer%20Vision&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://www.linkedin.com/in/abinav-s-b33ab528a">
+<a href="https://www.linkedin.com/in/abinav01">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Abinav-01">
