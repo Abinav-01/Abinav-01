@@ -1,94 +1,85 @@
-<h1 align="center">Hi 👋, I'm S Abinav</h1>
+<div align="center">
 
-<h3 align="center">
-AI • Machine Learning • Full Stack • Research
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=S%20Abinav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Full-Stack%20%7C%20Computer%20Vision&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center">
-Building intelligent systems through research, machine learning, and scalable software.
-</p>
+<a href="https://www.linkedin.com/in/abinav-s-b33ab528a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Abinav-01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:abinavsankar01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/>
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Building+AI-powered+systems+that+matter;RAG+Pipelines+%7C+Computer+Vision+%7C+Full-Stack+Dev;Dual+Degree+%40+VIT+Chennai+%2B+IIT+Madras" alt="Typing SVG" />
 
-- 🎓 B.Tech Computer Science @ VIT Chennai
-- 🎓 B.S. Data Science @ IIT Madras
-- 🔬 Research Intern (SRIP)
-- 📄 Research Paper under review at Frontiers
-- 🤖 Interested in AI, ML, Computer Vision & Generative AI
-- 💡 Love building products that solve real-world problems
+</div>
 
----
+<br/>
 
-## 🧠 Current Focus
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Backend Systems
+## 🧠 Tech Stack
 
----
+<div align="center">
 
-## 🔥 Featured Projects
+**Languages**
 
-### 📚 Adaptive Learning System
-AI-powered adaptive learning platform using React, FastAPI, FAISS, MediaPipe and Groq LLM.
+<img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,mysql" />
 
-🔗 https://github.com/Abinav-01/adaptive-learning-system
+**AI / Machine Learning**
 
----
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EB0028?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge"/>
 
-### 📈 Aadhaar Telemetry Analytics
+**Web & Backend**
 
-Large-scale ML pipeline on 3M+ records featuring clustering, anomaly detection, forecasting, and fraud detection.
+<img src="https://skillicons.dev/icons?i=react,vue,fastapi,flask,nestjs,firebase,supabase,prisma" />
 
-🔗 https://github.com/Abinav-01/Aadhaar-telementry-data-analysis
+**Databases & Infra**
 
----
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,docker,git,linux,aws" />
 
-### 🚗 Vehicle Parking App
+</div>
 
-Multi-user parking management system with Flask, Vue.js, Redis and Celery.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-🔗 https://github.com/Abinav-01/Vehicle-parking-app
+## 📊 GitHub Stats
 
----
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-HANDLE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-HANDLE&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-### 👁 Guardian Eye
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-HANDLE&theme=tokyonight&hide_border=true" />
+</div>
 
-AI-powered surveillance system using YOLO, DeepSORT and OpenCV.
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-HANDLE&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
-🔗 https://github.com/bitnboson/guardian_eye
+## 🐍 Contribution Snake
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-## ⚙ Tech Stack
+## 🌐 Languages I Speak
 
-### Languages
+<div align="center">
 
-Python • Java • C++ • JavaScript • SQL
+`Tamil (Native)` &nbsp; `English (Fluent)` &nbsp; `Hindi (Beginner)` &nbsp; `German (Beginner)`
 
-### AI/ML
+</div>
 
-PyTorch • Scikit-learn • FAISS • LangChain • OpenCV • MediaPipe • LightGBM • XGBoost
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
-### Web
-
-React • Vue • FastAPI • Flask • NestJS
-
-### Database
-
-MySQL • SQLite • Firebase • Supabase • Redis
-
----
-
-## 📫 Connect with Me
-
-LinkedIn:
-https://linkedin.com/in/abinav-s-b33ab528a
-
-Email:
-abinavsankar01@gmail.com
+</div>
